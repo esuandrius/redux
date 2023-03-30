@@ -6,6 +6,7 @@ import { configureStore } from "@reduxjs/toolkit";
 import { Provider } from "react-redux";
 import usersReducer from "./features/Users";
 
+// Store
 const store = configureStore({
   reducer: {
     users: usersReducer,
