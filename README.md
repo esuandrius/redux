@@ -1,4 +1,4 @@
-#Redux
+# Redux
 
 ### Simple app showing how Redux works as global state update manager. 
 ### Add/ Update/ Delete users
